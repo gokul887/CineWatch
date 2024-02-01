@@ -3,4 +3,5 @@ client/node_modules
 server/node_modules
 .DS_Store
 ai-recommender/.DS_Store
-ai-recommender/*.csv
+ai-recommender
+/node_modules
