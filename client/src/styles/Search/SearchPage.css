@@ -1,0 +1,16 @@
+.searchpage-container {
+  height: 100%;
+}
+.searchpage-container .searchpage-content {
+  padding: 40px;
+}
+.searchpage-container .searchpage-content h1 {
+  display: inline;
+  color: #fe3434;
+}
+.searchpage-container .searchpage-content .searchpage-media-content {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}/*# sourceMappingURL=SearchPage.css.map */
