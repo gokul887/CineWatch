@@ -1,6 +1,6 @@
 # CineWatch
 
-CineWatch is a feature-rich movie management system developed using MongoDB, Express, ReactJS, and NodeJS. This application provides users with a comprehensive movie database and an advanced recommendation system to enhance their movie-watching experience.
+CineWatch is a an amazing feature-rich movie management system developed using MongoDB, Express, ReactJS, and NodeJS. This application provides users with a comprehensive movie database and an advanced recommendation system to enhance their movie-watching experience.
 
 ## Features
 
