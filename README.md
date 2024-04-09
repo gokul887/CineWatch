@@ -5,9 +5,7 @@ CineWatch is a feature-rich movie management system developed using MongoDB, Exp
 ## Features
 
 - **Enhanced Recommendation System**: Provides personalized movie recommendations based on their preferences and viewing history.
-  
-- **User Authentication**: Implements a robust authentication system enabling users to create accounts, log in securely, and curate personalized watchlists for future movie viewing experiences.
-  
+- **User Authentication**: Implements a robust authentication system enabling users to create accounts, log in securely, and curate personalized watchlists for future movie viewing experiences with recommendations.
 - **MERN Stack Application**: Built on the MongoDB-Express-ReactJS-NodeJS stack, ensuring a seamless and responsive user experience.
 
 ## Installation
